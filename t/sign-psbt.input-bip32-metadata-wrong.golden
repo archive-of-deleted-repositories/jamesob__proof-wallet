@@ -7,4 +7,4 @@ Enter descriptor key #2:
 Enter descriptor key #3: 
 Enter the psbt for the transaction you wish to sign: 
 Validating the PSBT...
-Error: Tx input 0 does not have the correct set of fingerprints.
+Error: Tx input 0 has the wrong set of fingerprints.
